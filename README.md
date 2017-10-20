@@ -14,6 +14,20 @@ A collection of hacking / penetration testing resources to make you better!
 
 We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/tools.md) list, come and contribute
 
+## Table of Contents
+ * [Learning the Skills](#learning-the-skills)
+ * [YouTube Channels](#youtube-channels)
+ * [Sharpening Your Skills](#sharpening-your-skills)
+ * [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
+ * [Privilege Escalation](#privilege-escalation)
+ * [Malware Analysis](#malware-analysis)
+ * [Vulnerable Web Application](#vulnerable-web-application)
+ * [Vulnerable OS](#vulnerable-os)
+ * [Exploits](#exploits)
+ * [Forums](#forums)
+ * [Archived Security Conference Videos](#archived-security-conference-videos)
+ * [Online Communities](#online-communities)
+ * [Online News Sources](#online-news-sources)
 
 Learning the Skills
 --
@@ -52,6 +66,7 @@ YouTube Channels
 * [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA)
 * [rwbnetsec](https://www.youtube.com/channel/UCAJ8Clc3188ek9T_5XTVzZQ)
 * [Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg)
+* [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 * [Shozab Haxor](https://www.youtube.com/channel/UCBwub2kRoercWQJ2mw82h3A)
 * [SSTec Tutorials](https://www.youtube.com/channel/UCHvUTfxL_9bNQgqzekPWHtg)
 * [Troy Hunt](https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ)
@@ -88,6 +103,13 @@ Sharpening Your Skills
 * [Pentest Practice](https://www.pentestpractice.com/)
 * [Pentest.training](https://pentest.training)
 * [pwnable.kr](http://pwnable.kr/)
+* [hackburger.ee](http://hackburger.ee/)
+* [http://noe.systems/](http://noe.systems/)
+* [Hacker Gateway](https://www.hackergateway.com/)
+* [Solve Me](http://solveme.safflower.kr/)
+* [Challenge Land](http://challengeland.co/)
+* [Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1)
+* [Hacker test](http://www.hackertest.net/)
 
 Reverse Engineering, Buffer Overflow and Exploit Development
 --
@@ -140,13 +162,21 @@ Vulnerable Web Application
 * [Xtreme Vulnerable Web Application (XVWA)](https://github.com/s4n7h0/xvwa)
 * [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat)
 * [OWASP Mutillidae II](https://sourceforge.net/projects/mutillidae/files/)
-* [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 * [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/)
 * [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
+* [OWASP Juice Shop](https://github.com/bkimminich/juice-shop)
 
-Exploit 
+Vulnerable OS
+--
+* [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+* [Metasploitable3](https://github.com/rapid7/metasploitable3) \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md)\]
+
+Exploits
 --
 * [Exploit Database](https://www.exploit-db.com/)
+* [CXsecurity](https://cxsecurity.com/exploit/)
+* [0day.today](http://0day.today/)
+* [Snyk Vulnerability DB](https://snyk.io/vuln/)
 
 Forums
 --
@@ -154,6 +184,7 @@ Forums
 * [Hackforums](https://hackforums.net/)
 * [0x00sec](https://0x00sec.org/)
 * [Antichat](https://forum.antichat.ru/)
+ 
 
 Archived Security Conference Videos
 --
@@ -163,3 +194,10 @@ Archived Security Conference Videos
 Online Communities
 --
 * [Hack+](http://t.me/hacking_group_channel)
+
+Online News Sources  
+--
+* [InfoSec](http://www.infosecurity-magazine.com/)  
+* [Threatpost](https://threatpost.com/)  
+* [Security Intell](https://securityintelligence.com/news/git-vulnerabilities-found-in-version-control-systems/)  
+* [Hacker New](https://thehackernews.com/)
