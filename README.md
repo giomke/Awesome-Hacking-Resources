@@ -17,6 +17,8 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
 ## Table of Contents
  * [Learning the Skills](#learning-the-skills)
  * [YouTube Channels](#youtube-channels)
+   * [Conferences](#Conferences)
+   * [NEWS](#NEWS)
  * [Sharpening Your Skills](#sharpening-your-skills)
  * [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
  * [Privilege Escalation](#privilege-escalation)
@@ -28,6 +30,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
  * [Archived Security Conference Videos](#archived-security-conference-videos)
  * [Online Communities](#online-communities)
  * [Online News Sources](#online-news-sources)
+ * [Linux Penetration Testing OS](#linux-penetration-testing-os)
 
 Learning the Skills
 --
@@ -48,6 +51,41 @@ YouTube Channels
 * [Hak5](https://www.youtube.com/user/Hak5Darren)
 * [BlackHat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
 * [Christiaan008](https://www.youtube.com/channel/UCEPzS1rYsrkqzSLNp76nrcg)
+* Conferences <a id="Conferences"></a>
+  * [44contv](https://www.youtube.com/user/44contv)
+  * [BruCON Security Conference](https://www.youtube.com/channel/UCqwMU1l90lf9BLersW6eAHw)
+  * [BSides Manchester](https://www.youtube.com/channel/UC1mLiimOTqZFK98VwM8Ke4w)
+  * [BSidesAugusta](https://www.youtube.com/channel/UC85CvsnrVlD_44eEgzb2OfA)
+  * [CarolinaCon](https://www.youtube.com/channel/UCTY3Dpz68CyrjwRzqkE4sFw)
+  * [Cort Johnson](https://www.youtube.com/channel/UCV9r-yMeARWVCJEesim25Ag)
+  * [DevSecCon](https://www.youtube.com/channel/UCgxhfP2Hi8MQYz6ZkwpLA0A)
+  * [Garage4Hackers - Information Security](https://www.youtube.com/channel/UCDqagqREZlmJitWco-yPtvw/feed)
+  * [HACKADAY](https://www.youtube.com/channel/UCnv0gfLQFNGPJ5MHSGuIAkw)
+  * [Hack In The Box Security Conference](https://www.youtube.com/channel/UC0BJVNTIEbG8CLG-xVVWJnA)
+  * [Hack in Paris](https://www.youtube.com/channel/UC7xJU9_oqw-vS6OJExS-2iA)
+  * [Hacklu](https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/feed)
+  * [Hacktivity](https://www.youtube.com/feed/channels)
+  * [Hardwear.io](https://www.youtube.com/channel/UChwYb9xc9tZXquQxu4G0l_g/featured)
+  * [IEEE Symposium on Security and Privacy](https://www.youtube.com/channel/UC6pXMS7qre9GZW7A7FVM90Q)
+  * [LASCON](https://www.youtube.com/channel/UCDHsOiMPS-SLppAOAJRD37Q)
+  * [Marcus Niemietz](https://www.youtube.com/channel/UCtThfJl65L04ukWp0XZi3yg/videos)
+  * [Media.ccc.de](https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg)
+  * [NorthSec](https://www.youtube.com/channel/UCqVhMzTdQK5VAosAGkMtpJw)
+  * [Pancake Nopcode](https://www.youtube.com/channel/UC3G6k7XfTgcWD2PJR8qJSkQ)
+  * [Psiinon](https://www.youtube.com/channel/UC-3qyzm4f29C12KGp3-12bQ)
+  * [SJSU Infosec](https://www.youtube.com/channel/UCDNzNvZlYK8jZLsUbdiGrsQ/videos)
+  * [Secappdev.org](https://www.youtube.com/channel/UCSii2fuiLLlGqaR6sR_y0rA)
+  * [Security Fest](https://www.youtube.com/channel/UCByLDp7r7gHGoO7yYMYFeWQ)
+  * [SecurityTubeCons](https://www.youtube.com/channel/UC2wNN-Zqiq4J1PLPnyMBWUg)
+  * [ToorCon](https://www.youtube.com/channel/UCnzjmL0xkTBYwFZD7agHGWw)
+  * [USENIX Enigma Conference](https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw/feed)
+* NEWS <a id="NEWS"></a>
+  * [Corey Nachreiner](https://www.youtube.com/channel/UC7dUL0FbVPGqzdb2HtWw3Xg)
+  * [Error 404 Cyber News](https://www.youtube.com/channel/UC4HcNHFKshqj-aeyi6imW7Q)
+  * [Latest Hacking News](https://www.youtube.com/user/thefieldhouse/feed)
+  * [Pentester Academy TV](https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA)
+  * [SecureNinjaTV](https://www.youtube.com/channel/UCNxfV4yR0nIlhFmfwcdf3BQ)
+  * [Troy Hunt](https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ)
 * [Samy Kamkar's Applied Hacking](https://www.youtube.com/user/s4myk)
 * [danooct1](https://www.youtube.com/channel/UCqbkm47qBxDj-P3lI9voIAw)
 * [DedSec](https://www.youtube.com/channel/UCx34ZZW2KgezfUPPeL6m8Dw)
@@ -56,7 +94,6 @@ YouTube Channels
 * [Don Does 30](https://www.youtube.com/channel/UCarxjDjSYsIf50Jm73V1D7g)
 * [Geeks Fort - KIF](https://www.youtube.com/channel/UC09NdTL2hkThGLSab8chJMw)
 * [iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos)
-* [Latest Hacking News](https://www.youtube.com/channel/UCDSLIfPnsK1WdEZi_AcvSlQ)
 * [HACKING TUTORIALS](https://www.youtube.com/channel/UCbsn2kQwNxcIzHwbdDjzehA)
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [Metasploitation](https://www.youtube.com/channel/UC9Qa_gXarSmObPX3ooIQZrg)
@@ -69,7 +106,6 @@ YouTube Channels
 * [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 * [Shozab Haxor](https://www.youtube.com/channel/UCBwub2kRoercWQJ2mw82h3A)
 * [SSTec Tutorials](https://www.youtube.com/channel/UCHvUTfxL_9bNQgqzekPWHtg)
-* [Troy Hunt](https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ)
 * [Waleed Jutt](https://www.youtube.com/channel/UCeN7cOELsyMHrzfMsJUgv3Q)
 * [webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg)
 * [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA)
@@ -110,6 +146,7 @@ Sharpening Your Skills
 * [Challenge Land](http://challengeland.co/)
 * [Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1)
 * [Hacker test](http://www.hackertest.net/)
+* [Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152)
 
 Reverse Engineering, Buffer Overflow and Exploit Development
 --
@@ -130,6 +167,8 @@ Reverse Engineering, Buffer Overflow and Exploit Development
 * [Reverse Engineering for beginners (GitHub project)](https://github.com/dennis714/RE-for-beginners)
 * [reversing.kr challenges](http://www.reversing.kr/challenge.php)
 * [Analysis and exploitation (unprivileged)](https://www.it-sec-catalog.info/analysis_and_exploitation_unprivileged.html)
+* [A Course on Intermediate Level Linux Exploitation](https://github.com/nnamon/linux-exploitation-course)
+* [Lena's Reversing for Newbies (Complete)](https://tuts4you.com/download.php?view.2876)
 
 Privilege Escalation
 --
@@ -171,6 +210,10 @@ Vulnerable OS
 * [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 * [Metasploitable3](https://github.com/rapid7/metasploitable3) \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md)\]
 
+Linux Penetration Testing OS
+--
+* [LionSec Linux](https://lionsec-linux.org/)
+
 Exploits
 --
 * [Exploit Database](https://www.exploit-db.com/)
@@ -200,4 +243,4 @@ Online News Sources
 * [InfoSec](http://www.infosecurity-magazine.com/)  
 * [Threatpost](https://threatpost.com/)  
 * [Security Intell](https://securityintelligence.com/news/git-vulnerabilities-found-in-version-control-systems/)  
-* [Hacker New](https://thehackernews.com/)
+* [The Hacker News](https://thehackernews.com/)
