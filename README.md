@@ -23,7 +23,7 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
  * [Sharpening Your Skills](#sharpening-your-skills)
  * [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
  * [Privilege Escalation](#privilege-escalation)
- * [Network Scanning / Reconnaissance](#network-Scanning-/-Reconnaissance)
+ * [Network Scanning / Reconnaissance](#network-scanning--reconnaissance)
  * [Malware Analysis](#malware-analysis)
  * [Vulnerable Web Application](#vulnerable-web-application)
  * [Vulnerable OS](#vulnerable-os)
@@ -46,6 +46,7 @@ Name  |  Description
 [SecurityTube](http://www.securitytube.net/) | tube-styled content, "megaprimer" videos covering various topics, no readable content on site.
 [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html) | academic content, well organized, featuring lab videos, tasks, needed code files, and recommended readings
 [Hak5](https://www.hak5.org/) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
+[Mind Maps](http://www.amanhardikar.com/mindmaps.html) |   Information Security related Mind Maps
 [OWASP top 10 web security risks](https://www.online.hack2secure.com/courses/owasp-top10-web-security-risk) | free courseware, requires account
 [MIT OCW 6.858 Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/) | academic content, well organized, full-semester course, includes assigned readings, lectures, videos, required lab files.
 
@@ -129,7 +130,7 @@ Name  |  Description
 [BalCCon - Balkan Computer Congress](https://www.youtube.com/channel/UCoHypmu8rxlB5Axh5JxFZsA) | Long con-style talks from the Balkan Computer Congress, doesn't update regularly
 [Penetration Testing in Linux](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA) | DELETE
 [rwbnetsec](https://www.youtube.com/channel/UCAJ8Clc3188ek9T_5XTVzZQ) | lots of medium length instructional videos covering tools from Kali 2.0, no recent posts.
-[Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg) | regular updates, lengthy podcst-style interview with industry pros
+[Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg) | regular updates, lengthy podcast-style interviews with industry pros
 [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA) | variety of DIY hacking tutorials, hardware hacks, regular updates
 [Shozab Haxor](https://www.youtube.com/channel/UCBwub2kRoercWQJ2mw82h3A) | lots of screenshot style instructional vids, regular updates, windows CLI tutorial
 [SSTec Tutorials](https://www.youtube.com/channel/UCHvUTfxL_9bNQgqzekPWHtg) | lots of brief screenshot vids, regular updates
@@ -138,7 +139,7 @@ Name  |  Description
 [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA) | lots of medium length instructional vids with some AskMe vids from the youtuber
 [Zer0Mem0ry](https://www.youtube.com/channel/UCDk155eaoariJF2Dn2j5WKA) | lots of brief c++ security videos, programming intensive
 [LionSec](https://www.youtube.com/channel/UCCQLBOt_hbGE-b9I696VRow) | lots of brief screenshot instructional vids, no dialog
-[Adrian Crenshaw](https://www.youtube.com/user/irongeek) | lots of lengthy con0style talks
+[Adrian Crenshaw](https://www.youtube.com/user/irongeek) | lots of lengthy con-style talks
 [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
 [Derek Rook - CTF/Boot2root/wargames Walkthrough](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA) | lots of lengthy screenshot instructional vids, with
 
@@ -179,7 +180,7 @@ Name    |    Description
 [Hacker test](http://www.hackertest.net/) | similar to "hackthissite", no account required.
 [Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152) | a reverse engineering information Repo, started in 2003
 [ROP Emporium](https://ropemporium.com/) | Return Oriented Programming challenges
-[Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, an dpotentially a chance to get paid!
+[Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, and potentially a chance to get paid!
 
 ### Reverse Engineering, Buffer Overflow and Exploit Development
 Name    |     Description
@@ -187,12 +188,12 @@ Name    |     Description
 [Shell storm](http://shell-storm.org/) | Blog style collection with organized info about Rev. Engineering.
 [Buffer Overflow Exploitation Megaprimer for Linux](http://www.securitytube.net/groups?operation=view&groupId=4) | Collection of Linux Rev. Engineering videos
 [Reverse Engineering Malware 101](https://securedorg.github.io/RE101/) | intro course created by Malware Unicorn, complete with material and two VM's
-[Reverse Engineering Malware 102](https://securedorg.github.io/RE102/) | the sequel to RE102
+[Reverse Engineering Malware 102](https://securedorg.github.io/RE102/) | the sequel to RE101
 [Modern Binary Exploitation - CSCI 4968](https://github.com/RPISEC/MBE) | RE challenges, you can download the files or download the VM created by RPISEC specifically for challenges, also links to their home page with tons of infosec lectures
 [Introductory Intel x86](http://www.opensecuritytraining.info/IntroX86.html) | 63 days of OS class materials, 29 classes, 24 instructors, no account required
 [Binary hacking](http://liveoverflow.com/binary_hacking/index.html) | 35 "no bullshit" binary videos along with other info
 [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/) | a blog entry from a grad student at SDS Labs
-[Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf) | huge OS textbook, created by Dennis Yurichev
+[Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf) | huge textbook, created by Dennis Yurichev, open-source
 [Exploit tutorials](http://www.primalsecurity.net/tutorials/exploit-tutorials/) | a series of 9 exploit tutorials,also features a podcast
 [Exploit development](https://0x00sec.org/c/exploit-development) | links to the forum's exploit dev posts, quality and post style will vary with each poster
 [flAWS challenge](http://flaws.cloud/) | Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).
