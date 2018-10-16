@@ -26,6 +26,10 @@ Name | Description
 [mimikatz](https://github.com/gentilkiwi/mimikatz) | A useful tool to play with Windows security including extracting plaintext passwords, kerberos tickets, etc.
 [LAZY script v2.1.3](https://github.com/arismelachroinos/lscript) |  The LAZY script will make your life easier, and of course faster.
 [XSStrike](https://github.com/UltimateHackers/XSStrike)  | XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs.
+[SubFinder](https://github.com/subfinder/subfinder) | Subdomain discovery tool for use on web application engagements. SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
+[VHostScan](https://github.com/codingo/VHostScan) | A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+
+
 
 ### Exploitation tools
 Name | Description
@@ -41,6 +45,8 @@ Name | Description
 [Kernelpop](https://github.com/spencerdodd/kernelpop) | kernel privilege escalation enumeration and exploitation framework 
 [Lynis](https://github.com/CISOfy/lynis) | Security auditing tool for Linux, macOS, and UNIX-based systems.
 [linux-explorer](https://github.com/intezer/linux-explorer) | Easy-to-use live forensics toolbox for Linux endpoints
+[Katoolin](https://github.com/LionSec/katoolin) | Automatically install all Kali linux tools in distros like Ubuntu 
+
 
 ### Exploit Databases
 Name | Description
@@ -50,6 +56,11 @@ Name | Description
 [exploit-db](https://www.exploit-db.com/) | Exploits Database by Offensive Security
 [iedb](http://iedb.ir/) | Iranian Exploit DataBase
 [rapid7](https://rapid7.com/db) | Vulnerability & Exploit Database - Rapid7
+
+### Malware Analysis
+Name    |    Description
+----    |    ----
+[malice.io](https://github.com/maliceio/malice) | Open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.
 
 ### MITM tools
 Name | Description
@@ -106,6 +117,16 @@ Name | Description
 ---- | ----
 [BinNavi](https://github.com/google/binnavi) | BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code
 [Radare2](https://github.com/radare/radare2) | Radare2 is a reverse engineering suite which includes a complete toolkit for reverse enigneering needs. 
+
+### Privilege Escalation
+Name | Description
+---- | ----
+[LinEnum](https://github.com/rebootuser/LinEnum) | Scripted Local Linux Enumeration & Privilege Escalation Checks
+[CVE-2017-5123](https://github.com/nongiach/CVE/blob/master/CVE-2017-5123/README.md) | Linux Kernel 4.14.0-rc4+ - 'waitid()' Local Privilege Escalation
+[Oracle Privilege Escalation via Deserialization](http://obtruse.syfrtext.com/2018/07/oracle-privilege-escalation-via.html) | CVE-2018-3004 Oracle Privilege Escalation via Deserialization
+[linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) | The tool is meant to assist the security analyst in his testing for privilege escalation opportunities on Linux machine
+[BeRoot Project](https://github.com/AlessandroZ/BeRoot) | BeRoot Project is a post exploitation tool to check common misconfigurations to find a way to escalate our privilege.
+[yodo: Local Privilege Escalation](https://securityonline.info/yodo-local-privilege-escalation/) | yodo proves how easy it is to become root via limited sudo permissions, via dirty COW or using Pa(th)zuzu.
 
 ### Collaboration tools
 Name | Description
