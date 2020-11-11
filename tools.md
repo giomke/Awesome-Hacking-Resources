@@ -10,6 +10,7 @@ Repository | Description
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) | A curated list of awesome malware analysis tools and resources
 [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers
 [Awesome-osint](https://github.com/jivoi/awesome-osint) | A curated list of amazingly awesome OSINT
+[Code examples for Penetration Testing](https://github.com/dreddsa5dies/goHackTools) | this is The CODE, but very simple and light. No VIDEO/AUDIO/TEXT lectures
 [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 [HUNT Proxy Extension](https://github.com/bugcrowd/HUNT) | Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). Organize testing methodologies (currently avalible only inside of Burp Suite).
 [List of Sec talks/videos](https://github.com/PaulSec/awesome-sec-talks) | A curated list of awesome Security talks
@@ -28,6 +29,7 @@ Name | Description
 [XSStrike](https://github.com/UltimateHackers/XSStrike)  | XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs.
 [SubFinder](https://github.com/subfinder/subfinder) | Subdomain discovery tool for use on web application engagements. SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 [VHostScan](https://github.com/codingo/VHostScan) | A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+[PhpSploit](https://github.com/nil0x42/phpsploit) | Full-featured C2 framework which silently persists on webserver via evil PHP oneliner, with a complete asrenal of post-exploitation & privesc features.
 
 
 
@@ -89,6 +91,7 @@ Name | Description
 ### Search Engine for Penetration Tester
 Name | Description
 ---- | ----
+[Spyse](https://spyse.com/) | Spyse collects valuable data from all open source internet and stores it in its own database to provide instant access to the data. 
 [Censys](https://www.censys.io/) | Censys continually monitors every reachable server and device on the Internet, so you can search for and analyze them in real time
 [Shodan](http://shodan.io/) | Shodan is the world's first search engine for Internet-connected devices.
 [WiGLE](https://wigle.net/index) | Maps and database of 802.11 wireless networks, with statistics, submitted by wardrivers, netstumblers, and net huggers.
@@ -122,6 +125,7 @@ Name | Description
 Name | Description
 ---- | ----
 [LinEnum](https://github.com/rebootuser/LinEnum) | Scripted Local Linux Enumeration & Privilege Escalation Checks
+[PEASS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) | Privilege Escalation tools for Windows and Linux/Unix
 [CVE-2017-5123](https://github.com/nongiach/CVE/blob/master/CVE-2017-5123/README.md) | Linux Kernel 4.14.0-rc4+ - 'waitid()' Local Privilege Escalation
 [Oracle Privilege Escalation via Deserialization](http://obtruse.syfrtext.com/2018/07/oracle-privilege-escalation-via.html) | CVE-2018-3004 Oracle Privilege Escalation via Deserialization
 [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) | The tool is meant to assist the security analyst in his testing for privilege escalation opportunities on Linux machine
